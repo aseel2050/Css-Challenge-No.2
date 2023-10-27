@@ -1,0 +1,10 @@
+Differences between display none and visibilityhidden
+
+
+display none
+اخفاء العنصر مع اخفاء مكانة في الصفحة.
+
+
+
+visibilityhidden
+اخفاء العنصر ولكن يتم الاحتفاظ بموقعه في الصفحة.

@@ -1,0 +1,12 @@
+div{
+    font-size: 40px;
+   padding: 20px; 
+    margin: 20px;
+  width: 400px; 
+  background-color: aqua; 
+  
+}
+
+.d2{
+    visibility: hidden;
+}

@@ -1,0 +1,27 @@
+.image{
+    margin: 5px;
+    margin-bottom: 50px;
+    float: left;
+    width: 24%;
+    border: 1px solid wheat;
+}
+.img_1{
+    width: 100%;
+}
+.text{
+    padding: 5px;
+    font-size: 30px;
+    text-align: center;
+}
+.im2{
+    width: 200px;
+    height: 200px;
+float: left;
+padding-left: 20px;
+margin-right: 10px; 
+}
+p{
+    padding-left: 10px;
+    font-size: 30px;
+    margin-right: 100px;
+}
